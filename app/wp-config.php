@@ -7,6 +7,9 @@ define('WP_CACHE', true); // Added by W3 Total Cache
 define('WP_AUTO_UPDATE_CORE', false);
 define('AUTOMATIC_UPDATER_DISABLED', true);
 
+// MultiSite
+define( 'WP_ALLOW_MULTISITE', true );
+
 /**
  * The base configuration for WordPress
  *
